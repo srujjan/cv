@@ -123,6 +123,7 @@ margin-left: 240px;
 
 }
 
+
 .My-description{
   /*display: inline-block;*/
   margin: auto;
@@ -189,4 +190,12 @@ margin-left: 240px;
 .laptop{
   width: 30%;
   height: auto;
+
+}
+
+
+.contact-desc{
+  width: 50%;
+  margin: auto;
+
 }
